@@ -1,0 +1,36 @@
+.text{
+  display: block;
+}
+
+.btn{
+  position: relative;
+  left: 350px;
+  top: -20px;
+
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+
+  background-color: rgb(210, 210, 210);
+
+  text-align: left;
+  line-height: 25px;
+}
+
+.btn_icon{
+  position:  relative;
+  left: 425px;
+  top: -43px;
+  height: 16px;
+  width: 10px;
+  
+  background: transparent;
+}
+
+.btn_icon1{
+  display: block;
+}
+
+.btn_icon2{
+  display: none;
+}

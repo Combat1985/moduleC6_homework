@@ -1,0 +1,28 @@
+.text{
+  display: block;
+}
+
+.input_text{
+  width: 500px;
+}
+
+.button{
+  position: relative;
+
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+
+  background-color: rgb(210, 210, 210);
+
+  text-align: center;
+}
+
+.message_window{
+  display: block;
+  position: relative;
+  top: 15px;
+
+  width: 600px;
+  height: 200px;
+}
